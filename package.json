@@ -1,6 +1,6 @@
 {
   "name": "validate-polish-regon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "regon ",
   "main": "validate-polish-regon.js",
   "scripts": {
