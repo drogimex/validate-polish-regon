@@ -1,0 +1,27 @@
+{
+  "name": "validate-polish-regon",
+  "version": "1.0.0",
+  "description": "regon ",
+  "main": "validate-polish-regon.js",
+  "scripts": {
+    "test": "jest",
+    "eslint": "./node_modules/.bin/eslint -c .eslintrc.js *.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drogimex/validate-polish-regon.git"
+  },
+  "keywords": [
+    "regon"
+  ],
+  "author": "Tomek Sochacki (http://poradnik.drogimex.pl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drogimex/validate-polish-regon/issues"
+  },
+  "homepage": "https://github.com/drogimex/validate-polish-regon#readme",
+  "dependencies": {
+    "eslint": "^4.14.0",
+    "jest": "^22.0.4"
+  }
+}
