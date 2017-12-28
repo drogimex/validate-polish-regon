@@ -1,4 +1,4 @@
-# Simple ISBN validator
+# Simple polish REGON validator
 
 [![NPM Version][npm-version]][npm-url]
 [![Build Status][travis-image]][travis-url]
